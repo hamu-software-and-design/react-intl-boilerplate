@@ -1,4 +1,11 @@
-/* @flow */
+/**
+ * @file Flow types for the Store.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
+
 import * as RouterTypes from '../Router/flowtypes.js'
 /**
  * @module Store.flowtypes

@@ -1,4 +1,11 @@
-/* @flow */
+/**
+ * @file Reducer for the localization service.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
+
 import * as StoreTypes from '../flowtypes.js'
 import {CHANGE_LOCALE} from '../Actions/Locale.js'
 import {parseQuery, getClientLang} from '../../util.js'

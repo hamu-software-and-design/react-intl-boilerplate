@@ -1,4 +1,11 @@
-/* @flow */
+/**
+ * @file Actions for the localization service.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
+ 
 import * as StoreTypes from '../flowtypes.js'
 import { push } from 'react-router-redux'
 

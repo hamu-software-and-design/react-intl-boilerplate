@@ -1,4 +1,10 @@
-/* @flow */
+/**
+ * @file StoreProvider for the boilerplate.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
 import React from 'react'
 import {Provider} from 'react-redux'
 import {createStore, combineReducers, applyMiddleware} from 'redux'

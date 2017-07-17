@@ -1,3 +1,11 @@
+/**
+ * @file Webpack config for Hamu Software and Design boilerplate.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
+
 module.exports = {
   entry: './src/index.js',
   output: {

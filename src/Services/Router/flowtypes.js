@@ -1,5 +1,12 @@
-/* @flow */
 /**
+ * @file Flow types for the router.
+ * @author Kai Matsuda
+ * @copyright Kai Matusuda 2017
+ * @version 0.0.1
+ * @flow
+ */
+
+ /**
  * @module Router.flowTypes
  */
 
